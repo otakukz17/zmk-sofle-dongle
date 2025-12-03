@@ -55,8 +55,8 @@ layers:
   - $$mdi:keyboard-esc$$
   - PLAY PAUSE
   - $$mdi:apple-keyboard-caps$$
-  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - Первый
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
